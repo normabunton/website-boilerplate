@@ -440,3 +440,30 @@ history -a
 ls --color=auto
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+find name images
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find name images
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find name client
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find name images
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+mv header.png client/assets/images
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find name images
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find -name images
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
