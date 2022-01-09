@@ -692,3 +692,12 @@ history -a
 ls --color=auto
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+find
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find -name toms-website
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+find toms-website
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
