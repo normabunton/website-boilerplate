@@ -237,3 +237,6 @@ history -a
 touch lato.font
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+touch menlo.font
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
