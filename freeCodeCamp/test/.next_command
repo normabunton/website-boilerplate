@@ -189,3 +189,6 @@ history -a
 touch index.html
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+touch styles.css
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
