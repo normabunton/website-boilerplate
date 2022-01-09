@@ -410,3 +410,6 @@ history -a
 cd assets
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+mkdir images
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
