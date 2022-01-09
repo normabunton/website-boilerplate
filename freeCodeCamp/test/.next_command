@@ -602,3 +602,6 @@ history -a
 touch package.json
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+touch server.js
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
