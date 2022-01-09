@@ -9,3 +9,51 @@ history -a
 ls --color=auto
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+cd
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+freeCodeCamp
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+cd freeCodeCamp
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+pwd
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+cd freeCodeCamp
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+echo hello terminal
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+pwd
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+cd freeCodeCamp
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+cd FreeCodeCamp
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+cd project
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+cd freeCodeCamp
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
