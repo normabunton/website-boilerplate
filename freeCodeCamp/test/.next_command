@@ -647,3 +647,9 @@ history -a
 more README.md
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+echo for the freeCodeCamp bash lessons
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+echo for the freeCodeCamp bash lessons >> README.md
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
