@@ -129,3 +129,6 @@ history -a
 ls --color=auto
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+more LICENSE-MIT
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
