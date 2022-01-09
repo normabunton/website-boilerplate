@@ -641,3 +641,6 @@ history -a
 more README.md
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+echo from the command line >> README.md
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
