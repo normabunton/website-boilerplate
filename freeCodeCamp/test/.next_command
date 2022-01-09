@@ -153,3 +153,9 @@ history -a
 more index.js
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+cd has
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+cd ..
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
