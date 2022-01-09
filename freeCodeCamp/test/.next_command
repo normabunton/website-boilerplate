@@ -677,3 +677,6 @@ history -a
 mv website website-boilerplate
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+ls --color=auto
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
