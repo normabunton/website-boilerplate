@@ -204,3 +204,9 @@ history -a
 ls --color=auto
 echo $PWD >> ~/project/freeCodeCamp/test/.cwd
 history -a
+--help ls
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
+ls --color=auto --help
+echo $PWD >> ~/project/freeCodeCamp/test/.cwd
+history -a
